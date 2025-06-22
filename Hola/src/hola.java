@@ -8,6 +8,8 @@ public class hola {
         System.out.println("Hola ,"+ nombre +"!");
         System.out.println("La suma de "+a+"+"+b+" es :"+suma);
         System.out.println("La multiplicacion de a y b es "+mult);
+
+        System.out.println("Mi nombre es Henry David Lopez Sanchez y mi carnet es : 2025-2379U");
     }
     
 }
