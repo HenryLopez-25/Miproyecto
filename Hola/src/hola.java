@@ -11,6 +11,8 @@ public class hola {
 
         System.out.println("Mi nombre es Henry David Lopez Sanchez y mi carnet es : 2025-2379U");
 
+        System.out.println("Hola profesor , Saludos");
+
         System.out.println("Felices vacaiones");
     }
     
